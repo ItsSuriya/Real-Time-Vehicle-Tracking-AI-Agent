@@ -58,8 +58,8 @@ In urban environments, tracking vehicles across a network of surveillance camera
 
 | Component        | Technology Used                     |
 | ---------------- | ----------------------------------- |
-| Programming      | Python 3.x                          |
-| Object Detection | YOLOv8 (via Ultralytics)            |
+| Programming      | Python                              |
+| Object Detection | YOLO11 (via Ultralytics)            |
 | OCR              | PaddleOCR                           |
 | Deep Learning    | PyTorch, TensorFlow (LSTM)          |
 | Data Handling    | OpenCV, NumPy                       |
